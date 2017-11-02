@@ -7,3 +7,11 @@ html, body {
   font-weight: 300;
   line-height: 1.5;
 }
+
+body {
+  font-family: 'Lato', sans-serif;
+  background-image: url('http://farmingtonlibraries.org/wp-content/uploads/2016/04/meditation_sun.jpg');
+  background-position: center top;
+  background-size: cover;
+  margin: 0;
+}
