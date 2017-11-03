@@ -20,7 +20,9 @@ body {
 h1 {
   font-family: Palatino, 'Palatino Linotype', serif;
 	font-size: 60px;
-  color: red; }
+  color: red; 
+ text-align: center;
+}
 
 .page-title {
   text-align: center;
